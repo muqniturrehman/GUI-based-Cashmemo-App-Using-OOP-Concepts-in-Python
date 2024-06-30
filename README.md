@@ -2,6 +2,9 @@
 
 This project implements a Cash Memo system using Python and Tkinter for GUI development. It allows users to input customer details, purchase items, generate a bill, and optionally print it to a PDF.
 
+## Youtube
+Here is the youtube video link that explains te code: https://youtu.be/4soRDhU4RBE
+
 ## Features
 
 - **Customer Information**: Collects customer details including serial number, name, and address.
