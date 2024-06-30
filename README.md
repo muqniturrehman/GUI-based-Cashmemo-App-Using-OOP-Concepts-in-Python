@@ -107,7 +107,7 @@ To run the Cash Memo System:
 
 By following Object-Oriented Programming principles, the Cash Memo System achieves modularity, extensibility, and maintainability, making it suitable for further development and customization.
 
-##Screenshots
+## Screenshots
 ![sssp1](https://github.com/muqniturrehman/GUI-based-Cashmemo-App-Using-OOP-Concepts-in-Python/assets/171343101/44a05062-a01b-47d6-bd9e-270c28b4a7de)
 ![sp3](https://github.com/muqniturrehman/GUI-based-Cashmemo-App-Using-OOP-Concepts-in-Python/assets/171343101/5aa1534d-a006-4ff0-b5dc-79d16519a9ca)
 ![ssp2](https://github.com/muqniturrehman/GUI-based-Cashmemo-App-Using-OOP-Concepts-in-Python/assets/171343101/fcf8ec86-281f-48fe-a50f-65a46c81dfb1)
